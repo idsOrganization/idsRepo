@@ -1,0 +1,1 @@
+Archivo empleado sólamente para que el directorio en el que se encuentra no sea ignorado por el control de versiones cuando el mismo -el directorio- está vacío.
